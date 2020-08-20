@@ -1,0 +1,7 @@
+siteUrl = https://github.com/liaolintao/hugo
+gitUrl = https://github.com/liaolintao/hugo
+version = 1.2.3
+groupId = com.jakewharton.hugo.fix
+licenses = ['GPL-3.0']
+id = hugo-plugin
+name = hugo-plugin // actually not used
